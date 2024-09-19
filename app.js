@@ -5,6 +5,7 @@ const app = Vue.createApp({
         return {
             title: "intro vue home",
             author: "anonym",
+            age: 0,
         }
     }
 })
